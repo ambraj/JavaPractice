@@ -2,27 +2,27 @@ package StrategyDesignPattern;
 
 public interface FlyBehavior {
 
-    public String tryFlying();
+    String tryFlying();
 
 }
 
-class CanFly implements FlyBehavior{
+class CanFly implements FlyBehavior {
 
     private FlyBehavior flyBehavior;
 
     @Override
     public String tryFlying() {
-        return  "Flying High";
+        return "Flying High";
     }
 
 }
 
-class CanNotFly implements FlyBehavior{
+class CanNotFly implements FlyBehavior {
 
     private FlyBehavior flyBehavior;
 
     @Override
-    public String  tryFlying() {
+    public String tryFlying() {
         return "I can't fly ! :(";
     }
 

@@ -8,7 +8,7 @@ public class Animal {
         System.out.println("Can speak!");
     }
 
-    public String  tryToFly() {
+    public String tryToFly() {
         return flyBehavior.tryFlying();
     }
 
@@ -17,9 +17,9 @@ public class Animal {
     }
 }
 
-class Dog extends Animal{
+class Dog extends Animal {
 
-    public Dog(){
+    public Dog() {
         super();
 
         flyBehavior = new CanNotFly();
@@ -27,9 +27,9 @@ class Dog extends Animal{
 
 }
 
-class Bird extends Animal{
+class Bird extends Animal {
 
-    public Bird(){
+    public Bird() {
         super();
 
         flyBehavior = new CanFly();

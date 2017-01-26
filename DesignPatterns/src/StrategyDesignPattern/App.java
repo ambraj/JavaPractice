@@ -7,11 +7,11 @@ public class App {
         Dog dog = new Dog();
         Bird bird = new Bird();
 
-        System.out.println("Dog : "+dog.tryToFly());
-        System.out.println("Bird : "+bird.tryToFly());
+        System.out.println("Dog : " + dog.tryToFly());
+        System.out.println("Bird : " + bird.tryToFly());
 
         dog.setFlyBehavior(new CanFly());
-        System.out.println("Dog has been upgraded : "+dog.tryToFly());
+        System.out.println("Dog has been upgraded : " + dog.tryToFly());
 
     }
 
