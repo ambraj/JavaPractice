@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c4af160-95ea-4f5b-8d9e-cb740940fa55" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GeneralProgramming/src/ArmstrongExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GeneralProgramming/src/FactorialExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GeneralProgramming/src/FibonacciExample1.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GeneralProgramming/src/FileIO.java" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Java8/src/InterfaceDefaultMethods.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Java8/src/StreamClassUsages.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GeneralProgramming/src/AnagramCheck.java" afterPath="$PROJECT_DIR$/GeneralProgramming/src/AnagramCheck.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GeneralProgramming/src/CheckPalindrome.java" afterPath="$PROJECT_DIR$/GeneralProgramming/src/CheckPalindrome.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GeneralProgramming/src/FirstNonRepeatedCharacterFromString.java" afterPath="$PROJECT_DIR$/GeneralProgramming/src/FirstNonRepeatedCharacterFromString.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java8/src/a01_high_ceremony/Sample.java" afterPath="$PROJECT_DIR$/Java8/src/a01_high_ceremony/Sample.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,22 +44,79 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FactorialExample.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/GeneralProgramming/src/FactorialExample.java">
+      <file leaf-file-name="ArmstrongExample.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GeneralProgramming/src/ArmstrongExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+            <state relative-caret-position="198">
+              <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArmstrongExample.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GeneralProgramming/src/ArmstrongExample.java">
+      <file leaf-file-name="App1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Java8/src/App1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Stream.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_51/src.zip!/java/util/stream/Stream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="180" column="38" lean-forward="false" selection-start-line="180" selection-start-column="33" selection-end-line="180" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StreamClassUsages.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Java8/src/StreamClassUsages.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="33" column="59" lean-forward="true" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sample.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Java8/src/a01_high_ceremony/Sample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sample.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Java8/src/a04_method_references_different_options/Sample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="414">
-              <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+              <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InterfaceDefaultMethods.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Java8/src/InterfaceDefaultMethods.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+              <folding>
+                <element signature="e#199#200#0" expanded="true" />
+                <element signature="e#252#253#0" expanded="true" />
+                <element signature="e#281#282#0" expanded="true" />
+                <element signature="e#334#335#0" expanded="true" />
+                <element signature="e#387#388#0" expanded="true" />
+                <element signature="e#445#446#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -143,12 +196,16 @@
         <option value="$PROJECT_DIR$/GeneralProgramming/src/FibonacciExample1.java" />
         <option value="$PROJECT_DIR$/GeneralProgramming/src/FactorialExample.java" />
         <option value="$PROJECT_DIR$/GeneralProgramming/src/ArmstrongExample.java" />
+        <option value="$PROJECT_DIR$/Java8/src/a01_high_ceremony/Sample.java" />
+        <option value="$PROJECT_DIR$/Java8/src/InterfaceDefaultMethods.java" />
+        <option value="$PROJECT_DIR$/Java8/src/Java8Tester.java" />
+        <option value="$PROJECT_DIR$/Java8/src/StreamClassUsages.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1136" />
-    <option name="width" value="1424" />
+    <option name="x" value="1140" />
+    <option name="width" value="1420" />
     <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -182,38 +239,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaPractice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaPractice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GeneralProgramming" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaPractice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaPractice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GeneralProgramming" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -234,40 +259,10 @@
       <recent name="C:\Users\arajput.INGENUITY\Desktop\Important\Study\JavaPractice\MultiThreadingJohnPurcell\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FibonacciExample1">
+  <component name="RunManager" selected="Application.StreamClassUsages">
     <configuration default="false" name="CheckPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="CheckPalindrome" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="GeneralProgramming" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="RemoveCharacterFromString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="RemoveCharacterFromString" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="GeneralProgramming" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="AnagramCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="AnagramCheck" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -307,6 +302,36 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="GeneralProgramming" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="InterfaceDefaultMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="InterfaceDefaultMethods" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java8" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="StreamClassUsages" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="StreamClassUsages" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java8" />
       <envs />
       <method />
     </configuration>
@@ -473,18 +498,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.CheckPalindrome" />
-      <item index="1" class="java.lang.String" itemvalue="Application.RemoveCharacterFromString" />
-      <item index="2" class="java.lang.String" itemvalue="Application.AnagramCheck" />
-      <item index="3" class="java.lang.String" itemvalue="Application.FirstNonRepeatedCharacterFromString" />
-      <item index="4" class="java.lang.String" itemvalue="Application.FibonacciExample1" />
+      <item index="1" class="java.lang.String" itemvalue="Application.FirstNonRepeatedCharacterFromString" />
+      <item index="2" class="java.lang.String" itemvalue="Application.FibonacciExample1" />
+      <item index="3" class="java.lang.String" itemvalue="Application.InterfaceDefaultMethods" />
+      <item index="4" class="java.lang.String" itemvalue="Application.StreamClassUsages" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.FibonacciExample1" />
-        <item index="1" class="java.lang.String" itemvalue="Application.CheckPalindrome" />
-        <item index="2" class="java.lang.String" itemvalue="Application.FirstNonRepeatedCharacterFromString" />
-        <item index="3" class="java.lang.String" itemvalue="Application.AnagramCheck" />
-        <item index="4" class="java.lang.String" itemvalue="Application.RemoveCharacterFromString" />
+        <item index="0" class="java.lang.String" itemvalue="Application.StreamClassUsages" />
+        <item index="1" class="java.lang.String" itemvalue="Application.InterfaceDefaultMethods" />
+        <item index="2" class="java.lang.String" itemvalue="Application.FibonacciExample1" />
+        <item index="3" class="java.lang.String" itemvalue="Application.CheckPalindrome" />
+        <item index="4" class="java.lang.String" itemvalue="Application.FirstNonRepeatedCharacterFromString" />
       </list>
     </recent_temporary>
   </component>
@@ -502,8 +527,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1136" y="0" width="1424" height="1080" extended-state="0" />
-    <editor active="true" />
+    <frame x="1140" y="0" width="1420" height="1080" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4167813" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -514,10 +539,10 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16367476" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25871173" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17681585" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17733628" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24965613" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
@@ -542,48 +567,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DesignPatterns/src/CH03/designpatterns/observer/weatherobservable/WeatherData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DesignPatterns/src/CH03/designpatterns/observer/weatherobservable/CurrentConditionsDisplay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="25" column="63" lean-forward="true" selection-start-line="25" selection-start-column="63" selection-end-line="25" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DesignPatterns/src/CH04/designpatterns/decorator/starbuzz/Beverage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DesignPatterns/src/CH04/designpatterns/decorator/starbuzz/HouseBlend.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DesignPatterns/src/CH04/designpatterns/decorator/starbuzz/Soy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DesignPatterns/src/CH04/designpatterns/decorator/starbuzz/Mocha.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DesignPatterns/src/CH04/designpatterns/decorator/starbuzz/StarbuzzCoffee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -773,14 +756,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Java8/src/App1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GeneralProgramming/src/RemoveCharacterFromString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -871,22 +846,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GeneralProgramming/src/FibonacciExample1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GeneralProgramming/src/ArmstrongExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GeneralProgramming/src/AnagramCheck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -899,6 +858,85 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeneralProgramming/src/FibonacciExample1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeneralProgramming/src/ArmstrongExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_51/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="58" column="21" lean-forward="false" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java8/src/a01_high_ceremony/Sample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java8/src/a04_method_references_different_options/Sample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java8/src/InterfaceDefaultMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java8/src/App1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_51/src.zip!/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="180" column="38" lean-forward="false" selection-start-line="180" selection-start-column="33" selection-end-line="180" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java8/src/StreamClassUsages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="33" column="59" lean-forward="true" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
           <folding />
         </state>
       </provider>
