@@ -23,7 +23,7 @@ public class AnagramCheck {
      * @return true, if both Strings are anagram.
      */
 
-    public static boolean iAnagram(String word, String anagram) {
+    public static boolean isAnagram(String word, String anagram) {
         char[] charFromWord = word.toCharArray();
         char[] charFromAnagram = anagram.toCharArray();
         Arrays.sort(charFromWord);
@@ -31,12 +31,12 @@ public class AnagramCheck {
         return Arrays.equals(charFromWord, charFromAnagram);
     }
 
-    /**
-     * One way to find if two Strings are anagram in Java.
-     * This method * assumes both arguments are not null and in lowercase.
-     *
-     * @return true, if both String are anagram
-     */
+//    /**
+//     * One way to find if two Strings are anagram in Java.
+//     * This method * assumes both arguments are not null and in lowercase.
+//     *
+//     * @return true, if both String are anagram
+//     */
 //    public static boolean isAnagram(String word, String anagram) {
 //        if (word.length() != anagram.length()) {
 //            return false;
