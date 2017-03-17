@@ -1,4 +1,7 @@
 import java.util.HashMap;
+import java.util.Iterator;
+import java.util.Map;
+import java.util.Set;
 
 public class HashMapDemo {
 
@@ -10,7 +13,23 @@ public class HashMapDemo {
         map.put("4th", "fourth");
 
         map.put("1st", "1st");
-        System.out.println(map);
+
+        // using looping entry set
+        Set<Map.Entry<String, String>> entries = map.entrySet();
+        Iterator<Map.Entry<String, String>> iterator = entries.iterator();
+
+        while (iterator.hasNext()) {
+            Map.Entry<String, String> entry = iterator.next();
+            System.out.println(entry.getValue());
+        }
+
+        // using looping key set
+        Set<String> keySet = map.keySet();
+        Iterator<String> itr = keySet.iterator();
+        while (itr.hasNext()) {
+            String key = itr.next();
+            System.out.println(map.get(key));
+        }
 
     }
 
