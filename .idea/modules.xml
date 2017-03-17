@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/Java8/Java8.iml" filepath="$PROJECT_DIR$/Java8/Java8.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaPractice.iml" filepath="$PROJECT_DIR$/JavaPractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/MultiThreadingJohnPurcell/MultiThreadingJohnPurcell.iml" filepath="$PROJECT_DIR$/MultiThreadingJohnPurcell/MultiThreadingJohnPurcell.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiThreadingPractice/MultiThreadingPractice.iml" filepath="$PROJECT_DIR$/MultiThreadingPractice/MultiThreadingPractice.iml" />
     </modules>
   </component>
 </project>

@@ -64,7 +64,8 @@ package ReentrantLocks_10;
  *     <em>https://www.udemy.com/java-multithreading/?couponCode=FREE</em>
  * </a>
  *
- * @author Z.B. Celik <celik.berkay@gmail.com>
+ * @author Z.B. Celik <celik.berkay@g
+ * mail.com>
  */
 public class App {
 

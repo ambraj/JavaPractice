@@ -10,7 +10,6 @@ public class HashMapDemo {
         map.put("4th", "fourth");
 
         map.put("1st", "1st");
-
         System.out.println(map);
 
     }
