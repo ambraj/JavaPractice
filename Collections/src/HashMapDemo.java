@@ -23,11 +23,14 @@ public class HashMapDemo {
             System.out.println(entry.getValue());
         }
 
+        //loop a Map
+        for (Map.Entry<String, String> entry : map.entrySet()) {
+            System.out.println("Key : " + entry.getKey() + " Value : " + entry.getValue());
+        }
+
+
         // using looping key set
-        Set<String> keySet = map.keySet();
-        Iterator<String> itr = keySet.iterator();
-        while (itr.hasNext()) {
-            String key = itr.next();
+        for (String key : map.keySet()) {
             System.out.println(map.get(key));
         }
 
