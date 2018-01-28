@@ -1,9 +1,9 @@
-public class BinarySearch {
+public class BinarySearchIterative {
 
     public static void main(String[] args) {
 
         int[] arr = new int[]{12, 14, 20, 25, 38, 45, 55, 64, 78, 80};
-        int numberToBeFound = 80;
+        int numberToBeFound = 14;
 
         int index = searchNumber(arr, numberToBeFound);
 
@@ -11,19 +11,19 @@ public class BinarySearch {
         System.out.println("And the number is : " + arr[index]);
     }
 
-    public static int searchNumber(int[] arr, int number) {
+    private static int searchNumber(int[] arr, int number) {
         int start = 0;
         int end = arr.length - 1;
-        int mid = (start + end) / 2;
-        while (start <= mid) {
+        while (start <= end) {
+            int mid = start + (end - start) / 2;
             if (arr[mid] == number) {
                 return mid;
-            } else if (arr[mid] < number) {
-                start = mid + 1;
+            } else if (number < arr[mid]) {
+                end = mid + 1;
             } else {
-                end = mid - 1;
+                start = mid + 1;
             }
-            mid = (start + end) / 2;
+
         }
         return -1;
     }
