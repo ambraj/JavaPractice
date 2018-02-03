@@ -3,7 +3,7 @@ public class BinarySearchIterative {
     public static void main(String[] args) {
 
         int[] arr = new int[]{12, 14, 20, 25, 38, 45, 55, 64, 78, 80};
-        int numberToBeFound = 14;
+        int numberToBeFound = 80;
 
         int index = searchNumber(arr, numberToBeFound);
 
@@ -19,7 +19,7 @@ public class BinarySearchIterative {
             if (arr[mid] == number) {
                 return mid;
             } else if (number < arr[mid]) {
-                end = mid + 1;
+                end = mid - 1;
             } else {
                 start = mid + 1;
             }
