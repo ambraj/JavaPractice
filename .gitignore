@@ -1,2 +1,7 @@
 *.class
 *.iml
+*.xml
+*.xml
+.idea/workspace.xml
+*.xml
+.idea/modules.xml
