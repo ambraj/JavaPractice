@@ -26,7 +26,12 @@ class CabClass implements Runnable {
 public class CabServiceApp {
     public static void main(String[] args) throws InterruptedException {
 
-        CyclicBarrier barrier = new CyclicBarrier(3);
+        CyclicBarrier barrier = new CyclicBarrier(3, new Runnable() {
+            @Override
+            public void run() {
+                System.out.println("Cab is ready to go!");
+            }
+        });
 
         for (int i = 0; i < 6; i++) {
             Thread cabThread = new Thread(new CabClass(barrier));
