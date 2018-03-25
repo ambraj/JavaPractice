@@ -29,11 +29,18 @@ public class ExecutorApp {
         Future<String> future = executorService.submit(new Callable<String>() {
             @Override
             public String call() throws Exception {
+                Thread.sleep(2000);
                 return "task completed";
             }
         });
-
-        System.out.println(future.get());
+        System.out.println("waiting for result");
+        try {
+            System.out.println(future.get(1, TimeUnit.SECONDS));
+        } catch (TimeoutException e) {
+            e.printStackTrace();
+        }
+        //        Thread.sleep(2000);
+        System.out.println("finished");
 
         executorService.shutdown();
     }
