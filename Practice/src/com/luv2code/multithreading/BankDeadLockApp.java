@@ -25,7 +25,7 @@ class Account {
     }
 }
 
-public class BankApp {
+public class BankDeadLockApp {
     public static void main(String[] args) throws InterruptedException {
         Random random = new Random();
         Lock lock1 = new ReentrantLock();

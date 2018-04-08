@@ -6,7 +6,7 @@ import java.util.concurrent.Semaphore;
 
 class Connection {
     private static Connection instance = new Connection();
-    private Semaphore semaphore = new Semaphore(5);
+    private Semaphore semaphore = new Semaphore(3);
     private int connections;
 
     private Connection() {
@@ -37,8 +37,6 @@ class Connection {
 
 public class SemaphoresApp {
     public static void main(String[] args) {
-        Semaphore semaphore = new Semaphore(3);
-
         ExecutorService service = Executors.newCachedThreadPool();
         for (int i = 0; i < 200; i++) {
             service.execute(new Runnable() {

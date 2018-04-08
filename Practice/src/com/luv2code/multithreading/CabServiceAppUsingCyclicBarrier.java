@@ -23,7 +23,7 @@ class CabClass implements Runnable {
     }
 }
 
-public class CabServiceApp {
+public class CabServiceAppUsingCyclicBarrier {
     public static void main(String[] args) throws InterruptedException {
 
         CyclicBarrier barrier = new CyclicBarrier(3, new Runnable() {
