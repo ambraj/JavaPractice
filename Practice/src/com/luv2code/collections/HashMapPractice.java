@@ -1,8 +1,6 @@
 package com.luv2code.collections;
 
-import java.util.Iterator;
-import java.util.Map;
-import java.util.Set;
+import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 
 public class HashMapPractice {
@@ -36,6 +34,21 @@ public class HashMapPractice {
             Map.Entry<String, Integer> entry = iterator.next();
             System.out.println("Key: " + entry.getKey() + ", value: " + entry.getValue());
         }
+
+        //////////////////////////////////////
+
+        List<String> balls = Arrays.asList("red", "red", "red", "green", "red", "green", "blue");
+
+        Map<String, Integer> ballMap = new HashMap<>();
+
+        for (String ball : balls) {
+            if (ballMap.containsKey(ball)) {
+                ballMap.put(ball, (ballMap.get(ball) + 1));
+            } else {
+                ballMap.put(ball, 1);
+            }
+        }
+        System.out.println(ballMap.toString());
 
     }
 

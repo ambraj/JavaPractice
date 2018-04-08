@@ -6,7 +6,7 @@ import java.util.concurrent.Semaphore;
 
 class Connection {
     private static Connection instance = new Connection();
-    private Semaphore semaphore = new Semaphore(3);
+    private Semaphore semaphore = new Semaphore(3, true);
     private int connections;
 
     private Connection() {
