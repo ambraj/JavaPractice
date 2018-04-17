@@ -30,6 +30,9 @@ public class LinkedList {
         node.next = head;
 
         Node n = head;
+        if (index == 0) {
+            insertAtStart(data);
+        }
         for (int i = 0; i < index - 1; i++) {
             n = n.next;
         }
@@ -40,6 +43,7 @@ public class LinkedList {
     public void insertAtStart(int data) {
         Node node = new Node();
         node.data = data;
+        node.next = null;
 
         node.next = head;
         head = node;
