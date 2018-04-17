@@ -8,7 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c4af160-95ea-4f5b-8d9e-cb740940fa55" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/CoreJava/exceptions/DemoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/exceptions/DemoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/LinkedList/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/LinkedList/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,65 +30,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataStructure/LinkedList/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="390">
+              <caret line="47" column="37" lean-forward="true" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BankDeadLockApp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CoreJava/multithreading/BankDeadLockApp.java">
+      <file leaf-file-name="App.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DataStructure/LinkedList/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="28" column="50" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HashMapDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CoreJava/collections/HashMapDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FirstNonRepeatedCharacterFromString.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GeneralProgramming/FirstNonRepeatedCharacterFromString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MethodReferenceApp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practice/java8/MethodReferenceApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DemoApp.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CoreJava/exceptions/DemoApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="8" selection-start-column="8" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OptionalApp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practice/java8/OptionalApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="308">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -118,10 +75,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/DesignPatterns/src/CH06/designpatterns/state/gumballstate/State.java" />
-        <option value="$PROJECT_DIR$/DesignPatterns/src/CH03/designpatterns/observer/weather/Subject.java" />
-        <option value="$PROJECT_DIR$/DesignPatterns/src/CH03/designpatterns/observer/weather/WeatherData.java" />
-        <option value="$PROJECT_DIR$/DesignPatterns/src/CH06/designpatterns/state/gumballstate/GumballMachineTestDrive.java" />
         <option value="$PROJECT_DIR$/GeneralProgramming/src/Palindrome.java" />
         <option value="$PROJECT_DIR$/Java8/src/a20_using_infinite_streams/Gender.java" />
         <option value="$PROJECT_DIR$/Java8/src/LambdaExpressionsTutorialPoint.java" />
@@ -169,6 +122,10 @@
         <option value="$PROJECT_DIR$/Collections/HashMapDemo.java" />
         <option value="$PROJECT_DIR$/GeneralProgramming/FirstNonRepeatedCharacterFromString.java" />
         <option value="$PROJECT_DIR$/CoreJava/exceptions/DemoApp.java" />
+        <option value="$PROJECT_DIR$/CoreJava/exceptions/ReturnFromTryCatchFinallyApp.java" />
+        <option value="$PROJECT_DIR$/DataStructure/LinkedList/Node.java" />
+        <option value="$PROJECT_DIR$/DataStructure/LinkedList/LinkedList.java" />
+        <option value="$PROJECT_DIR$/DataStructure/LinkedList/App.java" />
       </list>
     </option>
   </component>
@@ -233,24 +190,20 @@
             <path>
               <item name="JavaPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="CoreJava" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="CoreJava" type="462c0819:PsiDirectoryNode" />
-              <item name="collections" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="CoreJava" type="462c0819:PsiDirectoryNode" />
-              <item name="exceptions" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaPractice" type="462c0819:PsiDirectoryNode" />
               <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
+              <item name="LinkedList.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -292,9 +245,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReturnFromTryCatchFinallyApp">
+  <component name="RunManager" selected="Application.App">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.App" />
+      <module name="DataStructure" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="Deadlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Deadlock" />
@@ -331,11 +295,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-    </configuration>
-    <configuration name="HashMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HashMapDemo" />
-      <module name="Collections" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="ReturnFromTryCatchFinallyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exceptions.ReturnFromTryCatchFinallyApp" />
@@ -472,19 +431,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.HashMapDemo" />
       <item itemvalue="Application.Worker" />
       <item itemvalue="Application.Deadlock" />
       <item itemvalue="Application.HashMapDemo (1)" />
       <item itemvalue="Application.ReturnFromTryCatchFinallyApp" />
+      <item itemvalue="Application.App" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App" />
         <item itemvalue="Application.ReturnFromTryCatchFinallyApp" />
         <item itemvalue="Application.HashMapDemo (1)" />
         <item itemvalue="Application.Deadlock" />
         <item itemvalue="Application.Deadlock" />
-        <item itemvalue="Application.Worker" />
       </list>
     </recent_temporary>
   </component>
@@ -527,42 +486,49 @@
       <option name="project" value="LOCAL" />
       <updated>1523943067600</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="rearrange projects">
+      <created>1523943401780</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1523943401780</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1967" y="0" width="1873" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Palette" order="2" />
       <window_info anchor="bottom" id="TODO" order="9" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32838982" />
-      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="2" />
-      <window_info anchor="bottom" id="Run" order="10" weight="0.42372882" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info active="true" anchor="right" id="Run" order="11" visible="true" weight="0.35101148" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.3281412" />
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13996719" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13996719" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32917964" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24965613" />
-      <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info id="UI Designer" order="3" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.39937106" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="right" id="Inspection Results" order="7" weight="0.49633253" />
-      <window_info anchor="right" id="Commander" order="4" weight="0.4" />
-      <window_info anchor="right" id="PlantUML" order="3" weight="0.4167813" />
+      <window_info anchor="right" id="Inspection Results" order="9" weight="0.49633253" />
+      <window_info anchor="right" id="Commander" order="6" weight="0.4" />
+      <window_info anchor="right" id="PlantUML" order="5" weight="0.4167813" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="5" weight="0.32917964" />
-      <window_info anchor="right" id="simpleUML" order="8" weight="0.32897455" />
+      <window_info anchor="right" id="simpleUML" order="10" weight="0.32897455" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="0" />
@@ -643,9 +609,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DesignPatterns/src/CH02/designpatterns/strategy/RubberDuck.java" />
-    <entry file="file://$PROJECT_DIR$/DesignPatterns/src/CH02/designpatterns/strategy/FlyNoWay.java" />
-    <entry file="file://$PROJECT_DIR$/DesignPatterns/src/StrategyDesignPattern/FlyBehavior.java" />
     <entry file="file://$PROJECT_DIR$/MultiThreadingJohnPurcell/src/ThreadPools_5/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="359">
@@ -846,10 +809,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CoreJava/exceptions/DemoApp.java">
+    <entry file="file://$PROJECT_DIR$/DataStructure/LinkedList/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJava/exceptions/ReturnFromTryCatchFinallyApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/LinkedList/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="47" column="37" lean-forward="true" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructure/LinkedList/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
