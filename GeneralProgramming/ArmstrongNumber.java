@@ -7,7 +7,7 @@ package GeneralProgramming;
  */
 public class ArmstrongNumber {
 
-    public static void main (String[] args) {
+    public static void main(String[] args) {
 
         /**
          * Example of Armstrong number.<br>
@@ -19,10 +19,10 @@ public class ArmstrongNumber {
          * Armstrong number 6: 407 <br>
          */
 
-        if (isArmstrongNumber (370))
-            System.out.println ("Armstrong number");
+        if (isArmstrongNumber(370))
+            System.out.println("Armstrong number");
         else
-            System.out.println ("Not a Armstrong number");
+            System.out.println("Not a Armstrong number");
     }
 
     /**
@@ -30,11 +30,11 @@ public class ArmstrongNumber {
      *
      * @param num
      * @return TRUE: means Armstrong number <br>
-     *         FALSE: means not a Armstrong number.
+     * FALSE: means not a Armstrong number.
      */
-    public static boolean isArmstrongNumber (int num) {
+    public static boolean isArmstrongNumber(int num) {
 
-        int digitCount = digitCount (num);
+        int digitCount = digitCount(num);
         int armstrounNum = 0;
         int orignalNum = num;
 
@@ -42,7 +42,7 @@ public class ArmstrongNumber {
 
             int lastDigit = num % 10;
 
-            armstrounNum += Math.pow (lastDigit, digitCount);
+            armstrounNum += Math.pow(lastDigit, digitCount);
 
             num /= 10;
         }
@@ -56,7 +56,7 @@ public class ArmstrongNumber {
      * @param num
      * @return
      */
-    public static int digitCount (int num) {
+    public static int digitCount(int num) {
 
         int count = 0;
 

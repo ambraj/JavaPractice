@@ -1,3 +1,3 @@
 package a12_groupingBy;
 
-public enum Gender { MALE, FEMALE }
+public enum Gender {MALE, FEMALE}

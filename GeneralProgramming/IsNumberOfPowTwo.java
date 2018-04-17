@@ -8,12 +8,12 @@ package GeneralProgramming;
  */
 public class IsNumberOfPowTwo {
 
-    public static void main (String[] args) {
+    public static void main(String[] args) {
 
-        System.out.println ("OutPut::" + (isNumberOfPowTwo (9) ? "Yes" : "No"));
+        System.out.println("OutPut::" + (isNumberOfPowTwo(9) ? "Yes" : "No"));
     }
 
-    public static boolean isNumberOfPowTwo (int num) {
+    public static boolean isNumberOfPowTwo(int num) {
 
         for (int i = 2; i < num / 2; i++) {
             if ((i * i) == num)

@@ -1,6 +1,6 @@
-package Practice.exceptions;
+package exceptions;
 
-public class DemoApp {
+public class ReturnFromTryCatchFinallyApp {
     public static void main(String[] args) {
         System.out.println(method());
     }

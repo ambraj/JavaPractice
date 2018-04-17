@@ -7,19 +7,18 @@ package GeneralProgramming;
  */
 public class PalindromeNumber {
 
-    public static void main (String[] args) {
-        System.out.println (isNumerPalindrome (13321) ? "Palindrome Number."
+    public static void main(String[] args) {
+        System.out.println(isNumerPalindrome(13321) ? "Palindrome Number."
                 : "Not a Palindrome numer.");
     }
 
     /**
-     *
      * @param num
      * @return TRUE: if Number is Palindrome. <br>
-     *         FALSE : not.
+     * FALSE : not.
      */
-    public static boolean isNumerPalindrome (int num) {
-        return (reverseOfNumber (num) == num);
+    public static boolean isNumerPalindrome(int num) {
+        return (reverseOfNumber(num) == num);
     }
 
     /**
@@ -28,7 +27,7 @@ public class PalindromeNumber {
      * @param num
      * @return
      */
-    public static int reverseOfNumber (int num) {
+    public static int reverseOfNumber(int num) {
 
         int revNum = 0;
 

@@ -7,8 +7,8 @@ package GeneralProgramming;
  */
 public class ComputeAllPrimesUptoN {
 
-    public static void main (String[] args) {
-        computeAllPrimeNumberUptoN (50);
+    public static void main(String[] args) {
+        computeAllPrimeNumberUptoN(50);
     }
 
     /**
@@ -16,11 +16,11 @@ public class ComputeAllPrimesUptoN {
      *
      * @param n
      */
-    public static void computeAllPrimeNumberUptoN (int n) {
+    public static void computeAllPrimeNumberUptoN(int n) {
 
         for (int i = 2; i <= n; i++) {
-            if (isPrime (i))
-                System.out.print ("\t" + i);
+            if (isPrime(i))
+                System.out.print("\t" + i);
         }
     }
 
@@ -29,11 +29,11 @@ public class ComputeAllPrimesUptoN {
      *
      * @param num
      * @return TRUE: means Prime. <br>
-     *         FALSE: mean Not prime.
+     * FALSE: mean Not prime.
      */
-    public static boolean isPrime (int num) {
+    public static boolean isPrime(int num) {
 
-        for (int i = 2; i <= Math.sqrt (num); i++) {
+        for (int i = 2; i <= Math.sqrt(num); i++) {
             if ((num % i) == 0)
                 return false;
         }

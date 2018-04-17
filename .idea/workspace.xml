@@ -7,93 +7,8 @@
     <bookmark url="file://$PROJECT_DIR$/GeneralProgramming/PowerOfTwo.java" line="5" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c4af160-95ea-4f5b-8d9e-cb740940fa55" name="Default" comment="adding more examples">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/Collections.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/src/HashMapDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/Decorator/AddOnDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/Decorator/AddOnDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/Decorator/Americano.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/Decorator/Americano.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/Decorator/Beverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/Decorator/Beverage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/Decorator/Chocolate.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/Decorator/Chocolate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/Decorator/CoffeeShopApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/Decorator/CoffeeShopApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/Decorator/Espresso.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/Decorator/Espresso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/Decorator/Milk.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/Decorator/Milk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/Singleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/Singleton/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/Strategy/CheekyQuackBehaviour.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/Strategy/CheekyQuackBehaviour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/Strategy/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/Strategy/Duck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/Strategy/HighAltitudeFlyingBehaviour.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/Strategy/HighAltitudeFlyingBehaviour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/Strategy/IFlyBehaviour.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/Strategy/IFlyBehaviour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/Strategy/IQuakeBehaviour.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/Strategy/IQuakeBehaviour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/Strategy/LoudQuackBehaviour.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/Strategy/LoudQuackBehaviour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/Strategy/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/Strategy/MainApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/Strategy/SlowFlyingBehaviour.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/Strategy/SlowFlyingBehaviour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralProgramming/src/AnagramCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralProgramming/AnagramCheck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralProgramming/src/ArmstrongExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralProgramming/ArmstrongExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralProgramming/src/ArmstrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralProgramming/ArmstrongNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralProgramming/src/CheckPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralProgramming/CheckPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralProgramming/src/ComputeAllPrimesUptoN.java" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralProgramming/ComputeAllPrimesUptoN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralProgramming/src/CountDigitsInNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralProgramming/CountDigitsInNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralProgramming/src/DevideOrMultiplayNumberBy2.java" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralProgramming/DevideOrMultiplayNumberBy2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralProgramming/src/EvenOrOddUsinBitWiseOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralProgramming/EvenOrOddUsinBitWiseOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralProgramming/src/FactorialExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralProgramming/FactorialExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralProgramming/src/FibonacciExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralProgramming/FibonacciExample1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralProgramming/src/FirstNonRepeatedCharacterFromString.java" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralProgramming/FirstNonRepeatedCharacterFromString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralProgramming/src/IsNumberOfPowTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralProgramming/IsNumberOfPowTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralProgramming/src/LongestPalindromeFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralProgramming/LongestPalindromeFinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralProgramming/src/PalindromeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralProgramming/PalindromeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralProgramming/src/PowerOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralProgramming/PowerOfTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralProgramming/src/RemoveCharacterFromString.java" beforeDir="false" afterPath="$PROJECT_DIR$/GeneralProgramming/RemoveCharacterFromString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPractice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreadingJohnPurcell/MultiThreadingJohnPurcell.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreadingJohnPurcell/src/CallableAndFuture_13/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreadingJohnPurcell/src/CallableAndFuture_13/App2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreadingJohnPurcell/src/CallableAndFuture_13/CallableTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreadingJohnPurcell/src/CountDownLatch_6/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreadingJohnPurcell/src/Deadlock_11/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreadingJohnPurcell/src/Deadlock_11/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreadingJohnPurcell/src/Deadlock_11/Runner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreadingJohnPurcell/src/Deadlock_11/SimpleDeadLock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreadingJohnPurcell/src/InterruptingThreads14/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreadingJohnPurcell/src/JoiningAndSynchronizeThreads_3/Worker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreadingJohnPurcell/src/LockObjects_4/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreadingJohnPurcell/src/LockObjects_4/Worker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreadingJohnPurcell/src/LockObjects_4/WorkerMethodsSynchronized.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreadingJohnPurcell/src/LowLevelProducerConsumer_9/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreadingJohnPurcell/src/LowLevelProducerConsumer_9/Processor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreadingJohnPurcell/src/ProducerConsumer_7/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreadingJohnPurcell/src/ReentrantLocks_10/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreadingJohnPurcell/src/ReentrantLocks_10/Runner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreadingJohnPurcell/src/Semaphores_12/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreadingJohnPurcell/src/Semaphores_12/Connectionn.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreadingJohnPurcell/src/StartingThreads_1/ApplicationAnonymous.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreadingJohnPurcell/src/StartingThreads_1/ApplicationExtends.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreadingJohnPurcell/src/StartingThreads_1/ApplicationRunnable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreadingJohnPurcell/src/ThreadPools_5/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreadingJohnPurcell/src/ThreadPools_5/WorkerThreadPool.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreadingJohnPurcell/src/VolatileKeyword_2/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreadingJohnPurcell/src/WaitAndNotify_8/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreadingJohnPurcell/src/WaitAndNotify_8/BlockingQueueApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreadingJohnPurcell/src/WaitAndNotify_8/Processor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MultiThreadingJohnPurcell/src/tests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/src/com/luv2code/collections/HashMapPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/collections/HashMapDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/src/com/luv2code/exceptions/DemoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/exceptions/DemoApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/src/com/luv2code/java8/MethodReferenceApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/java8/MethodReferenceApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/src/com/luv2code/java8/OptionalApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/java8/OptionalApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/src/com/luv2code/multithreading/BankDeadLockApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/multithreading/BankDeadLockApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/src/com/luv2code/multithreading/BlockingQueueApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/multithreading/BlockingQueueApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/src/com/luv2code/multithreading/CabServiceAppUsingCyclicBarrier.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/multithreading/CabServiceAppUsingCyclicBarrier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/src/com/luv2code/multithreading/ExecutorApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/multithreading/ExecutorApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/src/com/luv2code/multithreading/LockApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/multithreading/LockApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/src/com/luv2code/multithreading/PrintEvenAndOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/multithreading/PrintEvenAndOdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/src/com/luv2code/multithreading/ProducerConsumerUsingWaitNotify.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/multithreading/ProducerConsumerUsingWaitNotify.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/src/com/luv2code/multithreading/ScheduledExecutorApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/multithreading/ScheduledExecutorApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/src/com/luv2code/multithreading/SemaphoresApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/multithreading/SemaphoresApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/src/com/luv2code/multithreading/WaitNotifyApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/multithreading/WaitNotifyApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/src/com/luv2code/programs/BubbleSortAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/programs/BubbleSortAlgorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/src/com/luv2code/programs/PrintDuplicatesFromString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/programs/PrintDuplicatesFromString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/src/com/luv2code/programs/RemoveDuplicatesFromString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/programs/RemoveDuplicatesFromString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/src/com/luv2code/reflection/AccessPrivateMethodDemoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/reflection/AccessPrivateMethodDemoApp.java" afterDir="false" />
+    <list default="true" id="4c4af160-95ea-4f5b-8d9e-cb740940fa55" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/CoreJava/exceptions/DemoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/exceptions/DemoApp.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -140,11 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FirstNonRepeatedCharacterFromString.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FirstNonRepeatedCharacterFromString.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GeneralProgramming/FirstNonRepeatedCharacterFromString.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="456">
-              <caret line="27" column="42" lean-forward="true" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+              <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -158,11 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DemoApp.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DemoApp.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CoreJava/exceptions/DemoApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+            <state>
+              <caret column="8" selection-start-column="8" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -203,7 +118,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/DesignPatterns/src/CH02/designpatterns/strategy/QuackBehavior.java" />
         <option value="$PROJECT_DIR$/DesignPatterns/src/CH06/designpatterns/state/gumballstate/State.java" />
         <option value="$PROJECT_DIR$/DesignPatterns/src/CH03/designpatterns/observer/weather/Subject.java" />
         <option value="$PROJECT_DIR$/DesignPatterns/src/CH03/designpatterns/observer/weather/WeatherData.java" />
@@ -254,6 +168,7 @@
         <option value="$PROJECT_DIR$/Collections/src/HashMapDemo.java" />
         <option value="$PROJECT_DIR$/Collections/HashMapDemo.java" />
         <option value="$PROJECT_DIR$/GeneralProgramming/FirstNonRepeatedCharacterFromString.java" />
+        <option value="$PROJECT_DIR$/CoreJava/exceptions/DemoApp.java" />
       </list>
     </option>
   </component>
@@ -323,29 +238,19 @@
             <path>
               <item name="JavaPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="CoreJava" type="462c0819:PsiDirectoryNode" />
+              <item name="collections" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="CoreJava" type="462c0819:PsiDirectoryNode" />
+              <item name="exceptions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="java8" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="programs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructure" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -387,7 +292,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HashMapDemo (1)">
+  <component name="RunManager" selected="Application.ReturnFromTryCatchFinallyApp">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -432,10 +337,16 @@
       <module name="Collections" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Inheritance" />
-      <module name="MultiThreadingPractice" />
+    <configuration name="ReturnFromTryCatchFinallyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptions.ReturnFromTryCatchFinallyApp" />
+      <module name="CoreJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="Worker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasicPractice.Worker" />
@@ -561,19 +472,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.Inheritance" />
       <item itemvalue="Application.HashMapDemo" />
       <item itemvalue="Application.Worker" />
       <item itemvalue="Application.Deadlock" />
       <item itemvalue="Application.HashMapDemo (1)" />
+      <item itemvalue="Application.ReturnFromTryCatchFinallyApp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReturnFromTryCatchFinallyApp" />
         <item itemvalue="Application.HashMapDemo (1)" />
         <item itemvalue="Application.Deadlock" />
         <item itemvalue="Application.Deadlock" />
         <item itemvalue="Application.Worker" />
-        <item itemvalue="Application.HashMapDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -609,11 +520,19 @@
       <option name="project" value="LOCAL" />
       <updated>1489781009352</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="rearrange projects">
+      <created>1523943067600</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1523943067600</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1967" y="0" width="1873" height="1080" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="bottom" id="TODO" order="9" />
@@ -680,7 +599,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="added multithreading practice module" />
     <MESSAGE value="adding more examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding more examples" />
+    <MESSAGE value="rearrange projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="rearrange projects" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -912,13 +832,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CoreJava/exceptions/DemoApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CoreJava/collections/HashMapDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
@@ -929,7 +842,14 @@
     <entry file="file://$PROJECT_DIR$/GeneralProgramming/FirstNonRepeatedCharacterFromString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
-          <caret line="27" column="42" lean-forward="true" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+          <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoreJava/exceptions/DemoApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>

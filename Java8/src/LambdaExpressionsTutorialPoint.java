@@ -1,6 +1,6 @@
 public class LambdaExpressionsTutorialPoint {
 
-    public static void main(String args[]){
+    public static void main(String args[]) {
         LambdaExpressionsTutorialPoint tester = new LambdaExpressionsTutorialPoint();
 
         //with type declaration
@@ -10,7 +10,9 @@ public class LambdaExpressionsTutorialPoint {
         MathOperation subtraction = (a, b) -> a - b;
 
         //with return statement along with curly braces
-        MathOperation multiplication = (int a, int b) -> { return a * b; };
+        MathOperation multiplication = (int a, int b) -> {
+            return a * b;
+        };
 
         //without return statement and without curly braces
         MathOperation division = (int a, int b) -> a / b;
@@ -32,16 +34,16 @@ public class LambdaExpressionsTutorialPoint {
         greetService2.sayMessage("Suresh");
     }
 
+    private int operate(int a, int b, MathOperation mathOperation) {
+        return mathOperation.operation(a, b);
+    }
+
     interface MathOperation {
         int operation(int a, int b);
     }
 
     interface GreetingService {
         void sayMessage(String message);
-    }
-
-    private int operate(int a, int b, MathOperation mathOperation){
-        return mathOperation.operation(a, b);
     }
 
 }
