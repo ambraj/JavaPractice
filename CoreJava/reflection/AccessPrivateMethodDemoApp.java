@@ -1,4 +1,4 @@
-package Practice.reflection;
+package CoreJava.reflection;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
