@@ -1,5 +1,3 @@
-package algorithms;
-
 public class BinarySearchRecursive {
 
     public static void main(String[] args) {
