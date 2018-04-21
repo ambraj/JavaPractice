@@ -1,25 +1,29 @@
 package GeneralProgramming;
 
-import java.util.Scanner;
+import java.util.HashMap;
+import java.util.Map;
 
 public class CountDigitsInNumber {
     public static void main(String[] args) {
-        int n, x, count = 0, i = 0;
-        Scanner s = new Scanner(System.in);
-        System.out.print("Enter no. of elements you want in array:");
-        n = s.nextInt();
-        int a[] = new int[n];
-        System.out.println("Enter all the elements:");
-        for (i = 0; i < n; i++) {
-            a[i] = s.nextInt();
-        }
-        System.out.print("Enter the element of which you want to count number of occurrences:");
-        x = s.nextInt();
-        for (i = 0; i < n; i++) {
-            if (a[i] == x) {
-                count++;
+        int num = 15899854;
+        Map<Integer, Integer> map = new HashMap<>();
+
+        while (num > 0) {
+            int digit = num % 10;
+            if (map.containsKey(digit)) {
+                map.put(digit, map.get(digit) + 1);
+            } else {
+                map.put(digit, 1);
             }
+            num /= 10;
         }
-        System.out.println("Number of Occurrence of the Element:" + count);
+        System.out.println(map);
+
+        ///////////////////////////////////
+
+        String str = "ambuj rajput";
+        char[] chars = str.toCharArray();
+
+        System.out.println(new String(chars));
     }
 }

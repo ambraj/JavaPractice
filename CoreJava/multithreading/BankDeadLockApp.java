@@ -35,8 +35,8 @@ public class BankDeadLockApp {
         Account acc2 = new Account();
         Thread worker1 = new Thread(() -> {
             for (int i = 0; i < 1000; i++) {
-                //                lock1.lock();
-                //                lock2.lock();
+                // lock1.lock();
+                // lock2.lock();
                 acquireLock(lock1, lock2);
                 Account.transfer(acc1, acc2, random.nextInt(100));
                 lock2.unlock();
@@ -45,8 +45,8 @@ public class BankDeadLockApp {
         });
         Thread worker2 = new Thread(() -> {
             for (int i = 0; i < 1000; i++) {
-                //                lock2.lock();
-                //                lock1.lock();
+                // lock2.lock();
+                // lock1.lock();
                 acquireLock(lock1, lock2);
                 Account.transfer(acc2, acc1, random.nextInt(100));
                 lock2.unlock();
