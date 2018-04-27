@@ -1,8 +1,13 @@
-package exceptions;
+package CoreJava.exceptions;
 
 public class ReturnFromTryCatchFinallyApp {
     public static void main(String[] args) {
         System.out.println(method());
+        method2();
+    }
+
+    public static void method2() {
+        throw new CustomUncheckedException();
     }
 
     public static String method() {
@@ -18,4 +23,12 @@ public class ReturnFromTryCatchFinallyApp {
             return "C";
         }
     }
+}
+
+class CustomCheckedException extends Exception {
+
+}
+
+class CustomUncheckedException extends RuntimeException {
+
 }

@@ -60,7 +60,7 @@ public class CustomArrayList {
     public static void main(String[] args) {
         CustomArrayList list = new CustomArrayList();
         list.add(10);
-        list.add(20);
+        list.add("String");
         list.add(30);
         list.add(40);
         list.add(50);

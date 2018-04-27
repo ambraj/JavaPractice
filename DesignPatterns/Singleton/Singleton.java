@@ -1,6 +1,8 @@
 package Singleton;
 
-public class Singleton {
+import java.io.Serializable;
+
+public class Singleton implements Serializable {
 
     private static Singleton instance;
 
@@ -20,6 +22,10 @@ public class Singleton {
             }
         }
         return result;
+    }
+
+    protected Object readResolve() {
+        return instance;
     }
 
 }

@@ -48,7 +48,6 @@ class Consumer implements Runnable {
 
     @Override
     public void run() {
-        int counter;
         while (true) {
             try {
                 consume();
