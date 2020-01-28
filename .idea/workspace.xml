@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f3f51c5-211e-45f2-96a2-141bc5b73b62" name="Default Changelist" comment="Path finder logic:&#10;path between two nodes with 2 stops">
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithms/pathfinder/PathFinderApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithms/pathfinder/Slot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/JavaPractice.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithms/pathfinder/PathFinderApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithms/pathfinder/PathFinderApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,6 +104,14 @@
       <option name="presentableId" value="Default" />
       <updated>1564309158373</updated>
     </task>
+    <task id="LOCAL-00001" summary="Path finder logic:&#10;path between two nodes with 2 stops">
+      <created>1580236823568</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580236823568</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,22 +146,22 @@
       <screen x="58" y="27" width="2502" height="1053" />
     </state>
     <state x="1092" y="311" width="424" height="491" key="FileChooserDialogImpl/58.27.2502.1053/2560.0.1920.1080@58.27.2502.1053" timestamp="1580206615815" />
-    <state width="637" height="892" key="GridCell.Tab.0.bottom" timestamp="1580236703182">
+    <state width="637" height="892" key="GridCell.Tab.0.bottom" timestamp="1580238469147">
       <screen x="58" y="27" width="2502" height="1053" />
     </state>
-    <state width="637" height="892" key="GridCell.Tab.0.bottom/58.27.2502.1053/2560.0.1920.1080@58.27.2502.1053" timestamp="1580236703182" />
-    <state width="637" height="892" key="GridCell.Tab.0.center" timestamp="1580236703182">
+    <state width="637" height="892" key="GridCell.Tab.0.bottom/58.27.2502.1053/2560.0.1920.1080@58.27.2502.1053" timestamp="1580238469147" />
+    <state width="637" height="892" key="GridCell.Tab.0.center" timestamp="1580238469147">
       <screen x="58" y="27" width="2502" height="1053" />
     </state>
-    <state width="637" height="892" key="GridCell.Tab.0.center/58.27.2502.1053/2560.0.1920.1080@58.27.2502.1053" timestamp="1580236703182" />
-    <state width="637" height="892" key="GridCell.Tab.0.left" timestamp="1580236703182">
+    <state width="637" height="892" key="GridCell.Tab.0.center/58.27.2502.1053/2560.0.1920.1080@58.27.2502.1053" timestamp="1580238469147" />
+    <state width="637" height="892" key="GridCell.Tab.0.left" timestamp="1580238469147">
       <screen x="58" y="27" width="2502" height="1053" />
     </state>
-    <state width="637" height="892" key="GridCell.Tab.0.left/58.27.2502.1053/2560.0.1920.1080@58.27.2502.1053" timestamp="1580236703182" />
-    <state width="637" height="892" key="GridCell.Tab.0.right" timestamp="1580236703182">
+    <state width="637" height="892" key="GridCell.Tab.0.left/58.27.2502.1053/2560.0.1920.1080@58.27.2502.1053" timestamp="1580238469147" />
+    <state width="637" height="892" key="GridCell.Tab.0.right" timestamp="1580238469147">
       <screen x="58" y="27" width="2502" height="1053" />
     </state>
-    <state width="637" height="892" key="GridCell.Tab.0.right/58.27.2502.1053/2560.0.1920.1080@58.27.2502.1053" timestamp="1580236703182" />
+    <state width="637" height="892" key="GridCell.Tab.0.right/58.27.2502.1053/2560.0.1920.1080@58.27.2502.1053" timestamp="1580238469147" />
     <state width="2456" height="340" key="GridCell.Tab.1.bottom" timestamp="1580233379390">
       <screen x="58" y="27" width="2502" height="1053" />
     </state>
@@ -176,16 +182,9 @@
       <screen x="58" y="27" width="2502" height="1053" />
     </state>
     <state x="798" y="188" width="1022" height="737" key="SettingsEditor/58.27.2502.1053/2560.0.1920.1080@58.27.2502.1053" timestamp="1580207973243" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/algorithms/pathfinder/PathFinderApp.java</url>
-          <line>100</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="904" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1580236827911">
+      <screen x="58" y="27" width="2502" height="1053" />
+    </state>
+    <state x="904" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/58.27.2502.1053/2560.0.1920.1080@58.27.2502.1053" timestamp="1580236827911" />
   </component>
 </project>
