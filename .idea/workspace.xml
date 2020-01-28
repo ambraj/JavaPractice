@@ -1,142 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f3f51c5-211e-45f2-96a2-141bc5b73b62" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/algorithms/sorting/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/corejava/collections/HashMapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a11_toMap/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a12_groupingBy/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a13_grouping_and_mapping/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a13_grouping_and_mapping/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a14_lazy_evaluation/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a15_lazy_at_work/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a16_properites_of_streams/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a16_properites_of_streams/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a17_changing_a_property_to_sorted/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a17_changing_a_property_to_sorted/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a18_changing_distinct_property/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a18_changing_distinct_property/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a19_creating_an_infinite_stream/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a19_creating_an_infinite_stream/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a20_using_infinite_streams/Gender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a20_using_infinite_streams/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/corejava/multithreading/CabServiceAppUsingCyclicBarrier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+    <list default="true" id="1f3f51c5-211e-45f2-96a2-141bc5b73b62" name="Default Changelist" comment="Path finder logic:&#10;path between two nodes with 2 stops">
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithms/pathfinder/PathFinderApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithms/pathfinder/Slot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/src/BinarySearchIterative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithms/searching/binarysearch/BinarySearchIterative.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/src/BinarySearchRecursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithms/searching/binarysearch/BinarySearchRecursive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/collections/EmployeeDatabaseUsingCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/collections/EmployeeDatabaseUsingCollection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/collections/HashMapDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/exceptions/ReturnFromTryCatchFinallyApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/exceptions/ReturnFromTryCatchFinallyApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/multithreading/BankDeadLockApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/multithreading/BankDeadLockApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/multithreading/BlockingQueueApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/multithreading/BlockingQueueApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/multithreading/CabServiceAppUsingCyclicBarrier.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/multithreading/ExecutorApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/multithreading/ExecutorApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/multithreading/LockApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/multithreading/LockApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/multithreading/PrintEvenAndOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/multithreading/PrintEvenAndOdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/multithreading/ProducerConsumerUsingWaitNotify.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/multithreading/ProducerConsumerUsingWaitNotify.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/multithreading/ScheduledExecutorApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/multithreading/ScheduledExecutorApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/multithreading/SemaphoresApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/multithreading/SemaphoresApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/multithreading/WaitNotifyApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/multithreading/WaitNotifyApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/objectcreationmethods/ObjectCreationWaysApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/objectcreationmethods/ObjectCreationWaysApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava/reflection/AccessPrivateMethodDemoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/reflection/AccessPrivateMethodDemoApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/CustomArrayList/CustomArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructure/ownimplementations/CustomArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/CustomHashMap/MyHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructure/ownimplementations/CustomHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/LinkedList/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/LinkedList/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructure/ownimplementations/CustomLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/Adaptor/AdaptorApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpatterns/adaptor/AdaptorApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/Decorator/AddOnDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpatterns/decorator/AddOnDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/Decorator/Americano.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpatterns/decorator/Americano.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/Decorator/Beverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpatterns/decorator/Beverage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/Decorator/Chocolate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpatterns/decorator/Chocolate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/Decorator/CoffeeShopApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpatterns/decorator/CoffeeShopApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/Decorator/Espresso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpatterns/decorator/Espresso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/Decorator/Milk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpatterns/decorator/Milk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/Singleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpatterns/singleton/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/Strategy/CheekyQuackBehaviour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpatterns/strategy/CheekyQuackBehaviour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/Strategy/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpatterns/strategy/Duck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/Strategy/HighAltitudeFlyingBehaviour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpatterns/strategy/HighAltitudeFlyingBehaviour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/Strategy/IFlyBehaviour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpatterns/strategy/IFlyBehaviour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/Strategy/IQuakeBehaviour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpatterns/strategy/IQuakeBehaviour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/Strategy/LoudQuackBehaviour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpatterns/strategy/LoudQuackBehaviour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/Strategy/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpatterns/strategy/MainApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/Strategy/SlowFlyingBehaviour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/designpatterns/strategy/SlowFlyingBehaviour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralProgramming/AnagramCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/randomproblems/AnagramCheck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralProgramming/ArmstrongExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/randomproblems/ArmstrongExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralProgramming/ArmstrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/randomproblems/ArmstrongNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralProgramming/CheckPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/randomproblems/CheckPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralProgramming/ComputeAllPrimesUptoN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/randomproblems/ComputeAllPrimesUptoN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralProgramming/CountDigitsInNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/randomproblems/CountDigitsInNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralProgramming/DevideOrMultiplayNumberBy2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/randomproblems/DevideOrMultiplayNumberBy2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralProgramming/EvenOrOddUsinBitWiseOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/randomproblems/EvenOrOddUsinBitWiseOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralProgramming/FactorialExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/randomproblems/FactorialExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralProgramming/FibonacciExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/randomproblems/FibonacciExample1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralProgramming/FirstNonRepeatedCharacterFromString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/randomproblems/FirstNonRepeatedCharacterFromString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralProgramming/IsNumberOfPowTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/randomproblems/IsNumberOfPowTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralProgramming/LongestPalindromeFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/randomproblems/LongestPalindromeFinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralProgramming/PalindromeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/randomproblems/PalindromeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralProgramming/PowerOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/randomproblems/PowerOfTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneralProgramming/RemoveCharacterFromString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/randomproblems/RemoveCharacterFromString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/Java8.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/App1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/App1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/InterfaceDefaultMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/InterfaceDefaultMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/LambdaExpressionsTutorialPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/LambdaExpressionsTutorialPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/StreamClassUsages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/StreamClassUsages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a01_high_ceremony/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a01_high_ceremony/Sample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a02_just_the_essence/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a02_just_the_essence/Sample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a03_from_external_to_internal_iterators/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a03_from_external_to_internal_iterators/Sample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a04_method_references_different_options/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a04_method_references_different_options/Sample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a05_function_composition/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a05_function_composition/Sample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a06_parallel_stream/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a06_parallel_stream/Sample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a06_parallel_stream/Timeit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a07_stream_common_operations/Timeit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a07_stream_common_operations/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a07_stream_common_operations/Sample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a07_stream_common_operations/Timeit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a06_parallel_stream/Timeit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a08_avoid_shared_mutability/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a08_avoid_shared_mutability/Sample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a08_avoid_shared_mutability/Timeit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a08_avoid_shared_mutability/Timeit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a09_toList/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a09_toList/Sample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a09_toList/Timeit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a09_toList/Timeit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a10_toSet/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a10_toSet/Sample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a10_toSet/Timeit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a10_toSet/Timeit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a11_toMap/Gender.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a11_toMap/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a15_lazy_at_work/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a11_toMap/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a11_toMap/Sample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a12_groupingBy/Gender.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a12_groupingBy/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a12_groupingBy/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a12_groupingBy/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a12_groupingBy/Sample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a13_grouping_and_mapping/Gender.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a13_grouping_and_mapping/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a14_lazy_evaluation/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a13_grouping_and_mapping/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a13_grouping_and_mapping/Sample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a14_lazy_evaluation/Gender.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a14_lazy_evaluation/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a11_toMap/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a14_lazy_evaluation/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a14_lazy_evaluation/Sample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a15_lazy_at_work/Gender.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a15_lazy_at_work/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a15_lazy_at_work/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a15_lazy_at_work/Sample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a16_properites_of_streams/Gender.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a16_properites_of_streams/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a16_properites_of_streams/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a16_properites_of_streams/Sample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a17_changing_a_property_to_sorted/Gender.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a17_changing_a_property_to_sorted/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a17_changing_a_property_to_sorted/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a17_changing_a_property_to_sorted/Sample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a18_changing_distinct_property/Gender.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a18_changing_distinct_property/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a18_changing_distinct_property/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a18_changing_distinct_property/Sample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a19_creating_an_infinite_stream/Gender.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a19_creating_an_infinite_stream/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a19_creating_an_infinite_stream/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a19_creating_an_infinite_stream/Sample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a20_using_infinite_streams/Gender.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a20_using_infinite_streams/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java8/src/a20_using_infinite_streams/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/a20_using_infinite_streams/Sample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaPractice.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/java8/MethodReferenceApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/MethodReferenceApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/java8/OptionalApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/corejava/java8examples/OptionalApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/programs/BubbleSortAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithms/sorting/BubbleSortAlgorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/programs/PrintDuplicatesFromString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/randomproblems/PrintDuplicatesFromString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/programs/RemoveDuplicatesFromString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/randomproblems/RemoveDuplicatesFromString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/JavaPractice.kotlin_module" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -192,33 +62,38 @@
     <option name="IS_SET_METHOD_ICONS_ENABLED" value="true" />
     <option name="IS_UNIT_TEST_ENABLED" value="true" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="ProjectId" id="1OdYturVt1MRC8nwjhEZ47RSkHM" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="RunManager">
+    <configuration name="PathFinderApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.pathfinder.PathFinderApp" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithms.pathfinder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <item itemvalue="Application.PathFinderApp" />
       </list>
-    </option>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -243,5 +118,74 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Path finder logic:&#10;path between two nodes with 2 stops" />
+    <option name="LAST_COMMIT_MESSAGE" value="Path finder logic:&#10;path between two nodes with 2 stops" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1055" y="253" width="497" height="607" key="#Configure_Path_Variables" timestamp="1580207480578">
+      <screen x="58" y="27" width="2502" height="1053" />
+    </state>
+    <state x="1055" y="253" width="497" height="607" key="#Configure_Path_Variables/58.27.2502.1053/2560.0.1920.1080@58.27.2502.1053" timestamp="1580207480578" />
+    <state x="1117" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1580207873683">
+      <screen x="58" y="27" width="2502" height="1053" />
+    </state>
+    <state x="1117" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/58.27.2502.1053/2560.0.1920.1080@58.27.2502.1053" timestamp="1580207873683" />
+    <state width="462" height="466" key="DebuggerActiveHint" timestamp="1580233037444">
+      <screen x="58" y="27" width="2502" height="1053" />
+    </state>
+    <state width="462" height="466" key="DebuggerActiveHint/58.27.2502.1053/2560.0.1920.1080@58.27.2502.1053" timestamp="1580233037444" />
+    <state x="1092" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1580206615815">
+      <screen x="58" y="27" width="2502" height="1053" />
+    </state>
+    <state x="1092" y="311" width="424" height="491" key="FileChooserDialogImpl/58.27.2502.1053/2560.0.1920.1080@58.27.2502.1053" timestamp="1580206615815" />
+    <state width="637" height="892" key="GridCell.Tab.0.bottom" timestamp="1580236703182">
+      <screen x="58" y="27" width="2502" height="1053" />
+    </state>
+    <state width="637" height="892" key="GridCell.Tab.0.bottom/58.27.2502.1053/2560.0.1920.1080@58.27.2502.1053" timestamp="1580236703182" />
+    <state width="637" height="892" key="GridCell.Tab.0.center" timestamp="1580236703182">
+      <screen x="58" y="27" width="2502" height="1053" />
+    </state>
+    <state width="637" height="892" key="GridCell.Tab.0.center/58.27.2502.1053/2560.0.1920.1080@58.27.2502.1053" timestamp="1580236703182" />
+    <state width="637" height="892" key="GridCell.Tab.0.left" timestamp="1580236703182">
+      <screen x="58" y="27" width="2502" height="1053" />
+    </state>
+    <state width="637" height="892" key="GridCell.Tab.0.left/58.27.2502.1053/2560.0.1920.1080@58.27.2502.1053" timestamp="1580236703182" />
+    <state width="637" height="892" key="GridCell.Tab.0.right" timestamp="1580236703182">
+      <screen x="58" y="27" width="2502" height="1053" />
+    </state>
+    <state width="637" height="892" key="GridCell.Tab.0.right/58.27.2502.1053/2560.0.1920.1080@58.27.2502.1053" timestamp="1580236703182" />
+    <state width="2456" height="340" key="GridCell.Tab.1.bottom" timestamp="1580233379390">
+      <screen x="58" y="27" width="2502" height="1053" />
+    </state>
+    <state width="2456" height="340" key="GridCell.Tab.1.bottom/58.27.2502.1053/2560.0.1920.1080@58.27.2502.1053" timestamp="1580233379390" />
+    <state width="2456" height="340" key="GridCell.Tab.1.center" timestamp="1580233379389">
+      <screen x="58" y="27" width="2502" height="1053" />
+    </state>
+    <state width="2456" height="340" key="GridCell.Tab.1.center/58.27.2502.1053/2560.0.1920.1080@58.27.2502.1053" timestamp="1580233379389" />
+    <state width="2456" height="340" key="GridCell.Tab.1.left" timestamp="1580233379389">
+      <screen x="58" y="27" width="2502" height="1053" />
+    </state>
+    <state width="2456" height="340" key="GridCell.Tab.1.left/58.27.2502.1053/2560.0.1920.1080@58.27.2502.1053" timestamp="1580233379389" />
+    <state width="2456" height="340" key="GridCell.Tab.1.right" timestamp="1580233379389">
+      <screen x="58" y="27" width="2502" height="1053" />
+    </state>
+    <state width="2456" height="340" key="GridCell.Tab.1.right/58.27.2502.1053/2560.0.1920.1080@58.27.2502.1053" timestamp="1580233379389" />
+    <state x="798" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1580207973243">
+      <screen x="58" y="27" width="2502" height="1053" />
+    </state>
+    <state x="798" y="188" width="1022" height="737" key="SettingsEditor/58.27.2502.1053/2560.0.1920.1080@58.27.2502.1053" timestamp="1580207973243" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algorithms/pathfinder/PathFinderApp.java</url>
+          <line>100</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
