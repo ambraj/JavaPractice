@@ -70,6 +70,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
@@ -186,5 +187,9 @@
       <screen x="58" y="27" width="2502" height="1053" />
     </state>
     <state x="904" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/58.27.2502.1053/2560.0.1920.1080@58.27.2502.1053" timestamp="1580236827911" />
+    <state x="3201" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1580319713815">
+      <screen x="2560" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3201" y="366" key="com.intellij.ide.util.TipDialog/2560.0.1920.1080/0.0.2560.1046@2560.0.1920.1080" timestamp="1580319713815" />
   </component>
 </project>
