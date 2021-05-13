@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1f3f51c5-211e-45f2-96a2-141bc5b73b62" name="Default Changelist" comment="Path finder logic:&#10;path between two nodes with 2 stops">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithms/pathfinder/PathFinderApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithms/pathfinder/PathFinderApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +26,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="JUnitClassTemplateConfiguration">
     <option name="DONT_SHOW_TEMPLATE_DIALOG_IF_ONLY_ONE_TEMPLATE" value="false" />
@@ -70,11 +80,25 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.LinkedListApp">
+    <configuration name="LinkedListApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.LinkedListApp" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PathFinderApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithms.pathfinder.PathFinderApp" />
       <module name="JavaPractice" />
@@ -90,10 +114,12 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedListApp" />
         <item itemvalue="Application.PathFinderApp" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -120,76 +146,27 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Path finder logic:&#10;path between two nodes with 2 stops" />
     <option name="LAST_COMMIT_MESSAGE" value="Path finder logic:&#10;path between two nodes with 2 stops" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="1055" y="253" width="497" height="607" key="#Configure_Path_Variables" timestamp="1580207480578">
-      <screen x="58" y="27" width="2502" height="1053" />
-    </state>
-    <state x="1055" y="253" width="497" height="607" key="#Configure_Path_Variables/58.27.2502.1053/2560.0.1920.1080@58.27.2502.1053" timestamp="1580207480578" />
-    <state x="1117" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1580207873683">
-      <screen x="58" y="27" width="2502" height="1053" />
-    </state>
-    <state x="1117" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/58.27.2502.1053/2560.0.1920.1080@58.27.2502.1053" timestamp="1580207873683" />
-    <state width="462" height="466" key="DebuggerActiveHint" timestamp="1580233037444">
-      <screen x="58" y="27" width="2502" height="1053" />
-    </state>
-    <state width="462" height="466" key="DebuggerActiveHint/58.27.2502.1053/2560.0.1920.1080@58.27.2502.1053" timestamp="1580233037444" />
-    <state x="1092" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1580206615815">
-      <screen x="58" y="27" width="2502" height="1053" />
-    </state>
-    <state x="1092" y="311" width="424" height="491" key="FileChooserDialogImpl/58.27.2502.1053/2560.0.1920.1080@58.27.2502.1053" timestamp="1580206615815" />
-    <state width="637" height="892" key="GridCell.Tab.0.bottom" timestamp="1580238469147">
-      <screen x="58" y="27" width="2502" height="1053" />
-    </state>
-    <state width="637" height="892" key="GridCell.Tab.0.bottom/58.27.2502.1053/2560.0.1920.1080@58.27.2502.1053" timestamp="1580238469147" />
-    <state width="637" height="892" key="GridCell.Tab.0.center" timestamp="1580238469147">
-      <screen x="58" y="27" width="2502" height="1053" />
-    </state>
-    <state width="637" height="892" key="GridCell.Tab.0.center/58.27.2502.1053/2560.0.1920.1080@58.27.2502.1053" timestamp="1580238469147" />
-    <state width="637" height="892" key="GridCell.Tab.0.left" timestamp="1580238469147">
-      <screen x="58" y="27" width="2502" height="1053" />
-    </state>
-    <state width="637" height="892" key="GridCell.Tab.0.left/58.27.2502.1053/2560.0.1920.1080@58.27.2502.1053" timestamp="1580238469147" />
-    <state width="637" height="892" key="GridCell.Tab.0.right" timestamp="1580238469147">
-      <screen x="58" y="27" width="2502" height="1053" />
-    </state>
-    <state width="637" height="892" key="GridCell.Tab.0.right/58.27.2502.1053/2560.0.1920.1080@58.27.2502.1053" timestamp="1580238469147" />
-    <state width="2456" height="340" key="GridCell.Tab.1.bottom" timestamp="1580233379390">
-      <screen x="58" y="27" width="2502" height="1053" />
-    </state>
-    <state width="2456" height="340" key="GridCell.Tab.1.bottom/58.27.2502.1053/2560.0.1920.1080@58.27.2502.1053" timestamp="1580233379390" />
-    <state width="2456" height="340" key="GridCell.Tab.1.center" timestamp="1580233379389">
-      <screen x="58" y="27" width="2502" height="1053" />
-    </state>
-    <state width="2456" height="340" key="GridCell.Tab.1.center/58.27.2502.1053/2560.0.1920.1080@58.27.2502.1053" timestamp="1580233379389" />
-    <state width="2456" height="340" key="GridCell.Tab.1.left" timestamp="1580233379389">
-      <screen x="58" y="27" width="2502" height="1053" />
-    </state>
-    <state width="2456" height="340" key="GridCell.Tab.1.left/58.27.2502.1053/2560.0.1920.1080@58.27.2502.1053" timestamp="1580233379389" />
-    <state width="2456" height="340" key="GridCell.Tab.1.right" timestamp="1580233379389">
-      <screen x="58" y="27" width="2502" height="1053" />
-    </state>
-    <state width="2456" height="340" key="GridCell.Tab.1.right/58.27.2502.1053/2560.0.1920.1080@58.27.2502.1053" timestamp="1580233379389" />
-    <state x="798" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1580207973243">
-      <screen x="58" y="27" width="2502" height="1053" />
-    </state>
-    <state x="798" y="188" width="1022" height="737" key="SettingsEditor/58.27.2502.1053/2560.0.1920.1080@58.27.2502.1053" timestamp="1580207973243" />
-    <state x="904" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1580236827911">
-      <screen x="58" y="27" width="2502" height="1053" />
-    </state>
-    <state x="904" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/58.27.2502.1053/2560.0.1920.1080@58.27.2502.1053" timestamp="1580236827911" />
-    <state x="3201" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1580319713815">
-      <screen x="2560" y="0" width="1920" height="1080" />
-    </state>
-    <state x="3201" y="366" key="com.intellij.ide.util.TipDialog/2560.0.1920.1080/0.0.2560.1046@2560.0.1920.1080" timestamp="1580319713815" />
   </component>
 </project>
