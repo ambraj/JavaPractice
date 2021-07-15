@@ -27,11 +27,19 @@ class OddPrinter extends Thread {
         synchronized (lock) {
             while (true) {
                 if (number.get() % 2 != 0) {
-                    lock.wait();
+                    try {
+                        lock.wait();
+                    } catch (InterruptedException e) {
+                        e.printStackTrace();
+                    }
                 } else {
                     System.out.println(number.get());
                     number.incrementAndGet();
-                    Thread.sleep(500);
+                    try {
+                        Thread.sleep(500);
+                    } catch (InterruptedException e) {
+                        e.printStackTrace();
+                    }
                     lock.notifyAll();
                 }
             }
@@ -53,7 +61,11 @@ class EvenPrinter extends Thread {
         synchronized (lock) {
             while (true) {
                 if (number.get() % 2 == 0) {
-                    lock.wait();
+                    try {
+                        lock.wait();
+                    } catch (InterruptedException e) {
+                        e.printStackTrace();
+                    }
                 } else {
                     System.out.println(number.get());
                     number.incrementAndGet();

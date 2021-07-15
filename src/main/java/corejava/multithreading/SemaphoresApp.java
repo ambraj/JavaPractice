@@ -25,10 +25,12 @@ class Connection {
         connections++;
         System.out.println("connections count: " + connections);
         try {
-            Thread.sleep(2000);
+            Thread.sleep(500);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
+
+        System.out.println(semaphore.availablePermits());
 
         connections--;
         semaphore.release();
@@ -38,7 +40,7 @@ class Connection {
 public class SemaphoresApp {
     public static void main(String[] args) {
         ExecutorService service = Executors.newCachedThreadPool();
-        for (int i = 0; i < 200; i++) {
+        for (int i = 0; i < 100; i++) {
             service.execute(new Runnable() {
                 @Override
                 public void run() {
