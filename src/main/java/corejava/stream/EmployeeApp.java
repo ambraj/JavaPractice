@@ -22,33 +22,32 @@ public class EmployeeApp {
 
         // 1. How many Males and Females are there in the organization?
         System.out.println(empList.stream()
-                .collect(Collectors.groupingBy(emp -> emp.getGender(), Collectors.counting())));
+                .collect(Collectors.groupingBy(Employee::getGender, Collectors.counting())));
 
         // 2. Print the name of all departments in the organization?
         empList.stream()
-                .map(emp -> emp.getDepartment())
+                .map(Employee::getDepartment)
                 .distinct()
                 .forEach(System.out::println);
 
         // 3. What is the average age of male and female employees?
         System.out.println(empList.stream()
-                .collect(Collectors.groupingBy(emp -> emp.getGender(), Collectors.averagingInt(emp -> emp.getAge()))));
+                .collect(Collectors.groupingBy(Employee::getGender, Collectors.averagingInt(emp -> emp.getAge()))));
 
         // 4. Get the details of highest paid employee in the organisation?
-        System.out.println(empList.stream()
-                .collect(Collectors.maxBy(Comparator.comparingDouble(emp -> emp.getSalary())))
-                .map(emp -> emp.getName())
+        System.out.println(empList.stream().max(Comparator.comparingDouble(emp -> emp.getSalary()))
+                .map(Employee::getName)
                 .get());
 
         // 5. Get the names of all employees who have joined after 2015?
         System.out.println(empList.stream()
                 .filter(emp -> emp.getYearOfJoining() > 2015)
-                .map(emp -> emp.getName())
+                .map(Employee::getName)
                 .collect(Collectors.toList()));
 
         // 6. Count the number of employees in each department?
         System.out.println(empList.stream()
-                .collect(Collectors.groupingBy(emp -> emp.getDepartment(), Collectors.counting())));
+                .collect(Collectors.groupingBy(Employee::getDepartment, Collectors.counting())));
 
         // 7. What is the average salary of each department?
         System.out.println(empList.stream()
@@ -65,8 +64,7 @@ public class EmployeeApp {
                 .get().getName());
 
         // 10. Total salary of whole org?
-        System.out.println(empList.stream()
-                .collect(Collectors.summingDouble(Employee::getSalary)));
+        System.out.println((Double) empList.stream().mapToDouble(Employee::getSalary).sum());
 
         // 11. List down names of all employees in each department?
         System.out.println(empList.stream()
