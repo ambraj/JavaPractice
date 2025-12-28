@@ -2,8 +2,8 @@ package designpatterns.strategy;
 
 public class Duck {
 
-    private IFlyBehaviour flyBehaviour;
-    private IQuakeBehaviour quakeBehaviour;
+    private final IFlyBehaviour flyBehaviour;
+    private final IQuakeBehaviour quakeBehaviour;
 
     public Duck(IFlyBehaviour flyBehaviour, IQuakeBehaviour quakeBehaviour) {
         this.flyBehaviour = flyBehaviour;

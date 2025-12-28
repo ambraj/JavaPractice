@@ -5,8 +5,8 @@ import java.util.List;
 
 class Producer implements Runnable {
 
-    private List<Integer> taskQueue;
-    private int queueSize;
+    private final List<Integer> taskQueue;
+    private final int queueSize;
 
     public Producer(List<Integer> taskQueue, int queueSize) {
         this.taskQueue = taskQueue;
@@ -40,7 +40,7 @@ class Producer implements Runnable {
 }
 
 class Consumer implements Runnable {
-    private List<Integer> taskQueue;
+    private final List<Integer> taskQueue;
 
     public Consumer(List<Integer> taskQueue) {
         this.taskQueue = taskQueue;

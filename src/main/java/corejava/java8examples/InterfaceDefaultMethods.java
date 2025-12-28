@@ -17,7 +17,7 @@ interface FourWheeler {
 }
 
 public class InterfaceDefaultMethods {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Vehicle vehicle = new Car();
         vehicle.print();
     }

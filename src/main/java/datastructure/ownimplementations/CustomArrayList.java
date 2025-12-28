@@ -11,6 +11,25 @@ public class CustomArrayList {
         arr = new Object[10];
     }
 
+    public static void main(String[] args) {
+        CustomArrayList list = new CustomArrayList();
+        list.add(10);
+        list.add("String");
+        list.add(30);
+        list.add(40);
+        list.add(50);
+        list.add(60);
+
+        list.show();
+        System.out.println("list size: " + list.size());
+
+        System.out.println("removed element " + list.remove(3));
+        list.show();
+        System.out.println("list size: " + list.size());
+
+        System.out.println("Element at 4th index: " + list.get(4));
+    }
+
     public Object get(int index) {
         if (index < actualSize) {
             return arr[index];
@@ -55,24 +74,5 @@ public class CustomArrayList {
         for (int i = 0; i < actualSize; i++) {
             System.out.println(arr[i]);
         }
-    }
-
-    public static void main(String[] args) {
-        CustomArrayList list = new CustomArrayList();
-        list.add(10);
-        list.add("String");
-        list.add(30);
-        list.add(40);
-        list.add(50);
-        list.add(60);
-
-        list.show();
-        System.out.println("list size: " + list.size());
-
-        System.out.println("removed element " + list.remove(3));
-        list.show();
-        System.out.println("list size: " + list.size());
-
-        System.out.println("Element at 4th index: " + list.get(4));
     }
 }

@@ -5,8 +5,8 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.Semaphore;
 
 class Connection {
-    private static Connection instance = new Connection();
-    private Semaphore semaphore = new Semaphore(3, true);
+    private static final Connection instance = new Connection();
+    private final Semaphore semaphore = new Semaphore(3, true);
     private int connections;
 
     private Connection() {

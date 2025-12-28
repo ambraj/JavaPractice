@@ -14,8 +14,8 @@ public class OddAndEven {
 }
 
 class OddPrinter extends Thread {
-    private AtomicInteger number;
-    private Object lock;
+    private final AtomicInteger number;
+    private final Object lock;
 
     public OddPrinter(AtomicInteger number, Object lock) {
         this.number = number;
@@ -48,8 +48,8 @@ class OddPrinter extends Thread {
 }
 
 class EvenPrinter extends Thread {
-    private AtomicInteger number;
-    private Object lock;
+    private final AtomicInteger number;
+    private final Object lock;
 
     public EvenPrinter(AtomicInteger number, Object lock) {
         this.number = number;

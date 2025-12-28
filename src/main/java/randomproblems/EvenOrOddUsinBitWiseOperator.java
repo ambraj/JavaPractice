@@ -13,7 +13,7 @@ public class EvenOrOddUsinBitWiseOperator {
 
         int num = 10;
 
-        if (isEvenOrOdd(num) == false)
+        if (!isEvenOrOdd(num))
             System.out.println("Even");
         else
             System.out.println("Odd");
@@ -29,7 +29,7 @@ public class EvenOrOddUsinBitWiseOperator {
      * FALSE: means Even number.
      */
     public static boolean isEvenOrOdd(int num) {
-        return ((num & 1) > 0) ? true : false;
+        return (num & 1) > 0;
     }
 
 }

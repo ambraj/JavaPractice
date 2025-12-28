@@ -1,7 +1,6 @@
 package designpatterns.factory;
 
-class F16{
-
+class F16 {
 
 
 }

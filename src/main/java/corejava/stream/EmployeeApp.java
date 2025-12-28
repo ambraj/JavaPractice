@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 public class EmployeeApp {
-    private static List<Employee> empList = new ArrayList<Employee>();
+    private static final List<Employee> empList = new ArrayList<Employee>();
 
     public static void main(String[] args) {
         empList.add(new Employee(111, "John", 25, "Male", "Dev", 2012, 10000));

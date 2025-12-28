@@ -4,7 +4,7 @@ import java.util.concurrent.*;
 
 class Worker implements Runnable {
 
-    private int id;
+    private final int id;
 
     public Worker(int id) {
         this.id = id;

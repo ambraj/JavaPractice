@@ -6,7 +6,7 @@ public class Singleton implements Serializable {
 
     private static Singleton instance;
 
-    private static Object mutex = new Object();
+    private static final Object mutex = new Object();
 
     private Singleton() {
     }

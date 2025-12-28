@@ -27,14 +27,14 @@ class DoublyLinkedList {
         head = temp;
     }
 
-    public void insertAtEnd(int data){
+    public void insertAtEnd(int data) {
         DLNode temp = new DLNode(data);
-        if(head == null){
+        if (head == null) {
             head = temp;
             return;
         }
         DLNode cur = head;
-        while(cur.next != null){
+        while (cur.next != null) {
             cur = cur.next;
         }
         cur.next = temp;

@@ -3,11 +3,10 @@ package datastructure.ownimplementations;
 import java.util.ArrayList;
 import java.util.List;
 
-public class CustomHashMap
-{
+public class CustomHashMap {
 
-    private Object dummy = new Object();
-    private List<Container> recordList;
+    private final Object dummy = new Object();
+    private final List<Container> recordList;
 
     public CustomHashMap() {
 

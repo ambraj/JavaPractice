@@ -83,8 +83,8 @@ class LinkedList<T> {
         head = prev;
     }
 
-    public LLNode reverseRecursiveMethod(LLNode head){
-        if(head == null || head.next == null){
+    public LLNode reverseRecursiveMethod(LLNode head) {
+        if (head == null || head.next == null) {
             return head;
         }
         LLNode restHead = reverseRecursiveMethod(head.next);

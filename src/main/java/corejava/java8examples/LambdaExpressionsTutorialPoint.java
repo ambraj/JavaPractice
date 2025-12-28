@@ -2,7 +2,7 @@ package corejava.java8examples;
 
 public class LambdaExpressionsTutorialPoint {
 
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         LambdaExpressionsTutorialPoint tester = new LambdaExpressionsTutorialPoint();
 
         //with type declaration

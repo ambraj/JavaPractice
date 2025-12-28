@@ -3,7 +3,7 @@ package corejava.multithreading;
 import java.util.concurrent.locks.ReentrantLock;
 
 class Worker1 implements Runnable {
-    private ReentrantLock lock;
+    private final ReentrantLock lock;
 
     public Worker1(ReentrantLock lock) {
         this.lock = lock;

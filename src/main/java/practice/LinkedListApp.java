@@ -12,15 +12,15 @@ public class LinkedListApp {
 class LinkedList {
     Node head;
 
-    public <T> void insertAtBegin(T data){
+    public <T> void insertAtBegin(T data) {
         Node temp = new Node(data);
         temp.next = head;
         head = temp;
     }
 
-    public void printList(){
+    public void printList() {
         Node temp = head;
-        while(temp != null){
+        while (temp != null) {
             System.out.println(temp.data);
             temp = temp.next;
         }
@@ -28,11 +28,11 @@ class LinkedList {
 
 }
 
-class Node<T>{
+class Node<T> {
     T data;
     Node next;
 
-    Node(T data){
+    Node(T data) {
         this.data = data;
         next = null;
     }

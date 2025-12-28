@@ -15,10 +15,7 @@ public class PowerOfTwo {
             x = x / 2;
         }
 
-        if (x == 1)
-            return true;
-        else
-            return false;
+        return x == 1;
     }
 
 }

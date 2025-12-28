@@ -18,7 +18,7 @@ public class LeetCodeProblem {
                 sum += nums[j];
 
 
-                if(sum > maxSum){
+                if (sum > maxSum) {
                     maxSum = sum;
                 }
             }

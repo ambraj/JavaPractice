@@ -27,14 +27,14 @@ public class EmployeeDatabaseUsingCollection {
 }
 
 class EmployeeDatabaseService {
-    private EmployeeResource empResource;
+    private final EmployeeResource empResource;
 
     public EmployeeDatabaseService(EmployeeResource empResource) {
         this.empResource = empResource;
     }
 
     public List<Employee> runQuery(String sqlQuery) {
-        List<String> tokens = Arrays.asList(parseSql(sqlQuery.toUpperCase()));
+        List<String> tokens = Collections.singletonList(parseSql(sqlQuery.toUpperCase()));
 
         return null;
     }
@@ -49,7 +49,7 @@ class EmployeeDatabaseService {
 }
 
 class EmployeeResource {
-    private List<Employee> empList = new ArrayList<>();
+    private final List<Employee> empList = new ArrayList<>();
 
     public List<Employee> findAll() {
         return empList;

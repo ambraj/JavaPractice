@@ -2,7 +2,7 @@ package designpatterns.decorator;
 
 public class Chocolate extends AddOnDecorator {
 
-    private Beverage beverage;
+    private final Beverage beverage;
 
     public Chocolate(Beverage beverage) {
         this.beverage = beverage;

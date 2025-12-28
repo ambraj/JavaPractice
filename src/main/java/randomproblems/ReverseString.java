@@ -7,17 +7,17 @@ public class ReverseString {
     // 2. using Collections.reverse() method of list
 
     // 3. using stack
-    public static String reverse2(String str){
-        if(str == null || str.equals(""))
+    public static String reverse2(String str) {
+        if (str == null || str.equals(""))
             return str;
 
         char[] arrChar = str.toCharArray();
         Stack<Character> stack = new Stack<Character>();
-        for (char c : arrChar){
+        for (char c : arrChar) {
             stack.push(c);
         }
         int i = 0;
-        while(!stack.isEmpty()){
+        while (!stack.isEmpty()) {
             arrChar[i++] = stack.pop();
         }
         return String.valueOf(arrChar);

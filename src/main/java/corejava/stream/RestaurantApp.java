@@ -2,11 +2,10 @@ package corejava.stream;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.stream.Collectors;
 
 public class RestaurantApp {
 
-    private static List<Dish> menu = Arrays.asList(
+    private static final List<Dish> menu = Arrays.asList(
             new Dish("pork", false, 800, Dish.Type.MEAT),
             new Dish("beef", false, 800, Dish.Type.MEAT),
             new Dish("chicken", false, 400, Dish.Type.MEAT),

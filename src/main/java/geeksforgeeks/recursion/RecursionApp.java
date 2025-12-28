@@ -1,6 +1,6 @@
 package geeksforgeeks.recursion;
 
-public class App {
+public class RecursionApp {
 
     public static void main(String[] args) {
         System.out.println(fact(5));
@@ -34,7 +34,6 @@ public class App {
         }
         return sumOfDigits(n / 10) + (n % 10);
     }
-
 
 
 }

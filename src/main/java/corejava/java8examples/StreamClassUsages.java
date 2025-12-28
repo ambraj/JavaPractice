@@ -7,7 +7,7 @@ import java.util.Random;
 import java.util.stream.Collectors;
 
 public class StreamClassUsages {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
 
         Random random = new Random();
         List<String> strings = Arrays.asList("abc", "", "bc", "efg", "abcd", "", "jkl");

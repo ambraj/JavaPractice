@@ -1,13 +1,13 @@
 package corejava.stream;
 
 public class Employee {
-    private int id;
-    private String name;
-    private int age;
-    private String gender;
-    private String department;
-    private int yearOfJoining;
-    private double salary;
+    private final int id;
+    private final String name;
+    private final int age;
+    private final String gender;
+    private final String department;
+    private final int yearOfJoining;
+    private final double salary;
 
     public Employee(int id, String name, int age, String gender, String department, int yearOfJoining, double salary) {
         this.id = id;
